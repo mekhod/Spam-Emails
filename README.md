@@ -9,4 +9,4 @@ In this practice project, a labeled (spam or ham) email text dataset is processe
 * The model is trained with the processed dataset.
 
 ## Results:
-* An F1 score of around 0.95 is achieved.
+* An F1 score of 0.95 is achieved.
