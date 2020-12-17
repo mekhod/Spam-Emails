@@ -10,3 +10,5 @@ In this practice project, a labeled (spam or ham) email text dataset is processe
 
 ## Results:
 * An F1 score of 0.95 is achieved.
+
+## End
